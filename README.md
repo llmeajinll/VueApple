@@ -1,4 +1,5 @@
 # vuedongsan
+## 애플 코딩 보면서 Vue 공부한거 돈없어서 무료만
 
 ## Project setup
 ```
